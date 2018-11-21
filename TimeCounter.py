@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # 03/22/18
 # Justin Privitera
 # TimeCounter
